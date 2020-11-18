@@ -1,42 +1,26 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "API",
+    "url": "https://giftcardbd.shop/api/v1/ping",
+    "slug": "api",
     "status": "up",
     "uptime": "100.00",
-    "time": 88
+    "time": 371
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "CDN",
+    "url": "https://cdn.giftcardbd.shop/ping",
+    "slug": "cdn",
     "status": "up",
     "uptime": "100.00",
-    "time": 140
+    "time": 476
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Shop",
+    "url": "https://giftcardbd.shop/ping",
+    "slug": "shop",
     "status": "up",
     "uptime": "100.00",
-    "time": 337
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 50
+    "time": 488
   }
 ]
