@@ -1,6 +1,7 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: giftcardbd # Your GitHub username
+repo: status # Your Github repository name
+user-agent: statusbot
 
 # Add your sites here
 sites:
