@@ -3,6 +3,11 @@ owner: giftcardbd # Your GitHub username
 repo: status # Your Github repository name
 user-agent: statusbot
 
+assignees:
+  - hsblhsn
+  - abdshaleh
+
+
 # Add your sites here
 sites:
   - name: API
