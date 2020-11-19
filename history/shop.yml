@@ -1,7 +1,7 @@
 - url: https://giftcardbd.shop/ping
-- status: down
+- status: up
 - code: 200
-- responseTime: 224
-- lastUpdated: 2020-11-19T06:50:24.897Z
+- responseTime: 375
+- lastUpdated: 2020-11-19T06:56:57.768Z
 - startTime: 2020-11-18T22:24:10.852Z
 - generator: Upptime <https://github.com/upptime/upptime>
