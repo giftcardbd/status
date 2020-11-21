@@ -5,7 +5,7 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00",
-    "time": 153
+    "time": 150
   },
   {
     "name": "CDN",
@@ -13,7 +13,7 @@
     "slug": "cdn",
     "status": "up",
     "uptime": "100.00",
-    "time": 149
+    "time": 151
   },
   {
     "name": "Shop",
@@ -21,6 +21,6 @@
     "slug": "shop",
     "status": "up",
     "uptime": "100.00",
-    "time": 356
+    "time": 351
   }
 ]
