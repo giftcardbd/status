@@ -4,23 +4,23 @@
     "url": "https://giftcardbd.shop/api/v1/ping",
     "slug": "api",
     "status": "up",
-    "uptime": "99.93%",
-    "time": 189
+    "uptime": "99.94%",
+    "time": 179
   },
   {
     "name": "CDN",
     "url": "https://cdn.giftcardbd.shop/ping",
     "slug": "cdn",
     "status": "up",
-    "uptime": "99.93%",
-    "time": 132
+    "uptime": "99.94%",
+    "time": 126
   },
   {
     "name": "Shop",
     "url": "https://giftcardbd.shop/ping",
     "slug": "shop",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "time": 359
   }
 ]
