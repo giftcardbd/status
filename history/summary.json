@@ -5,7 +5,15 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.97%",
-    "time": 155
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 153,
+    "timeDay": 100,
+    "timeWeek": 115,
+    "timeMonth": 153,
+    "timeYear": 153
   },
   {
     "name": "CDN",
@@ -13,7 +21,15 @@
     "slug": "cdn",
     "status": "up",
     "uptime": "99.97%",
-    "time": 116
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 115,
+    "timeDay": 88,
+    "timeWeek": 98,
+    "timeMonth": 115,
+    "timeYear": 115
   },
   {
     "name": "Shop",
@@ -21,6 +37,14 @@
     "slug": "shop",
     "status": "up",
     "uptime": "99.97%",
-    "time": 338
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 341,
+    "timeDay": 394,
+    "timeWeek": 315,
+    "timeMonth": 341,
+    "timeYear": 341
   }
 ]
