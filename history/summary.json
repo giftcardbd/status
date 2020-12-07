@@ -2,6 +2,7 @@
   {
     "name": "API",
     "url": "https://giftcardbd.shop/api/v1/ping",
+    "icon": "https://favicons.githubusercontent.com/giftcardbd.shop",
     "slug": "api",
     "status": "up",
     "uptime": "99.97%",
@@ -9,15 +10,19 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 158,
-    "timeDay": 75,
-    "timeWeek": 134,
-    "timeMonth": 158,
-    "timeYear": 158
+    "time": 157,
+    "timeDay": 149,
+    "timeWeek": 143,
+    "timeMonth": 157,
+    "timeYear": 157,
+    "dailyMinutesDown": {
+      "2020-11-19": 7
+    }
   },
   {
     "name": "CDN",
     "url": "https://cdn.giftcardbd.shop/ping",
+    "icon": "https://favicons.githubusercontent.com/cdn.giftcardbd.shop",
     "slug": "cdn",
     "status": "up",
     "uptime": "99.97%",
@@ -25,15 +30,19 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 108,
-    "timeDay": 71,
-    "timeWeek": 72,
-    "timeMonth": 108,
-    "timeYear": 108
+    "time": 109,
+    "timeDay": 142,
+    "timeWeek": 81,
+    "timeMonth": 109,
+    "timeYear": 109,
+    "dailyMinutesDown": {
+      "2020-11-19": 7
+    }
   },
   {
     "name": "Shop",
     "url": "https://giftcardbd.shop/ping",
+    "icon": "https://favicons.githubusercontent.com/giftcardbd.shop",
     "slug": "shop",
     "status": "up",
     "uptime": "99.97%",
@@ -41,10 +50,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 342,
-    "timeDay": 342,
-    "timeWeek": 357,
-    "timeMonth": 342,
-    "timeYear": 342
+    "time": 340,
+    "timeDay": 306,
+    "timeWeek": 350,
+    "timeMonth": 340,
+    "timeYear": 340,
+    "dailyMinutesDown": {
+      "2020-11-19": 7
+    }
   }
 ]
