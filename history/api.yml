@@ -1,7 +1,7 @@
 url: https://giftcardbd.shop/api/v1/ping  
-status: down
-code: 503
-responseTime: 65
-lastUpdated: 2020-12-26T08:34:47.619Z
+status: up
+code: 200
+responseTime: 427
+lastUpdated: 2020-12-26T09:30:10.955Z
 startTime: Wed Nov 18 2020 22:24:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
